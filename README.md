@@ -1,2 +1,2 @@
 # ascii-outline
-Create ascii-art from a outline image
+Create ascii-art from an black & white outline image
